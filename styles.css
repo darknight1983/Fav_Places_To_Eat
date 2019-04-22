@@ -1,0 +1,53 @@
+html, body {
+	padding: 0px;
+}
+
+.header {
+	background-color: red;
+	padding: 0px;
+	color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+img {
+	width: 100%;
+}
+
+.red {
+	background-color: red;
+	height: 200px;
+}
+
+.blue {
+	background-color: blue;
+	height: 200px;
+}
+
+.green {
+	background-color: green;
+	height: 200px;
+}
+
+.eating-img {
+	width: 100%;
+	height: 500px;
+	background-position: center;
+	background-image: url('https://i.ytimg.com/vi/t5sWnUkbU2g/hqdefault.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 50px;
+}
+
+.title {
+	color: white;
+	text-align: center;
+	margin-top: 150px;
+	font-size: 150px;
+}
